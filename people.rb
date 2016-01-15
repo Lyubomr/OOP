@@ -42,3 +42,4 @@ chris.teach
 cristina.learn
 
 chris.learn
+# .learn is an unidentified method for chris as it's exclusive to the Student class
